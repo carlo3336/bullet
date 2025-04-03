@@ -1,0 +1,21 @@
+body{
+    margin: ;
+    padding: ;
+    font-size: 20px;
+}
+.flex-footer{
+    display: flex;
+    justify-content: space-around;
+    background: #333;
+    color: white;
+    padding: 18px;
+}
+.flex-footer div {
+    flex: 1;
+    padding: 18px;
+}
+.flex-footer a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
